@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://santos19740329.github.io/jq/sitemap.xml

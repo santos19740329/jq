@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JQ",
+    "description": "",
+    "home_page_url": "https://santos19740329.github.io/jq",
+    "feed_url": "https://santos19740329.github.io/jq/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jason"
+    },
+    "items": [
+    ]
+}
